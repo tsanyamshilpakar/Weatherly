@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "pg-promise": "^10.8.0",
+        "save": "^2.4.0",
+        "spotify-web-api-node": "^5.0.0"
+    }
+}
